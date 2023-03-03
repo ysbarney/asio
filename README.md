@@ -1,4 +1,4 @@
 # asio
 Asio C++ Library
 
-ready to add libaio for file
+add asynchrous read/write file by using libaio
